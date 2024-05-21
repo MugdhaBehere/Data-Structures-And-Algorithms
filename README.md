@@ -20,8 +20,7 @@ This is a repository containing implementations of some Data Structures and Algo
 # Trie:   
   Trie, Suffix Trie, Radix Trie, Burst Trie, Compressed Trie, Ternary Search Trie.    
 # Miscellaneous Data Structures:    
-  Balanced Quick Union, Bloom Filter, Chained Hash Table, Cuckoo Hash Table, Disjoint Set Forest, Hash Table, Open Addressing Hash Table, Quick Find, Quick Union, Rank Compressed     
-  Disjoint Set, Robin Hood Hash Table, Suffix Array, Union Find, Weighted Quick Union, Weighted Quick Union with Path Compression, Weighted Quick Union with Path Optimization, Weighted 
+  Balanced Quick Union, Bloom Filter, Chained Hash Table, Cuckoo Hash Table, Disjoint Set Forest, Hash Table, Open Addressing Hash Table, Quick Find, Quick Union, Rank Compressed    Disjoint Set, Robin Hood Hash Table, Suffix Array, Union Find, Weighted Quick Union, Weighted Quick Union with Path Compression, Weighted Quick Union with Path Optimization, Weighted 
   Union Disjoint Set.   
 
 # Algorithms:    
