@@ -25,4 +25,4 @@ This is a repository containing implementations of some Data Structures and Algo
 # Tree Traversal Algorithms:  In-order Traversal, Pre-Order Traversal, Post-Order Traversal, Level Order Traversal, Morris Traversal, Right-View Traversal, Left-View Traversal, Top-View Traversal, Bottom-View Traversal, Vertical Order Traversal, Boundary Traversal, Zig Zag Traversal.    
 
 
-# Dynamic Programming is not covered in this repository because there were only concepts and problems based on Dynamic Programming to cover, and no implementations of any of the concepts or Data Structures and Algorithms.    
+# Dynamic Programming is not covered in this repository.   
